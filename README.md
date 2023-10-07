@@ -1,0 +1,2 @@
+I'm Uzi-Godwin Richard, I intend to major in DevOps because it's all about unification and automation of processes. In my leisures, i enjoy watching football matches and playing video games.
+My favorite programming language is python although i know so little about it. Python is one of the fastest growing programming language in the world. It makes coding very easy. I haven't done any project on python yet. I hope to take on several project soon.
